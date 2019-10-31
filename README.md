@@ -3,7 +3,7 @@ If any questions come up while working on the task, please don’t hesitate to a
 
 ## Prerequisites
 
-We recommend you to use Python 3 for solving the tasks. To get your environment ready, run
+We recommend you to use Python 3 for solving these tasks. To get your environment ready, run
 ```
 $ pip install -r requirements.txt
 ```
